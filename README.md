@@ -1,0 +1,2 @@
+# CoinMP
+Script Mining JAVA
